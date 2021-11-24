@@ -1,1 +1,1 @@
-
+Record management system is a multi domain system hence can be used in various places as per the requirment. This system is made for a school so the system is behaving as a scholl management system or student management system, but due to flexibility of the design and davelopment it can be used in various other institutions like msmes.
